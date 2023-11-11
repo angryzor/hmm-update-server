@@ -1,3 +1,30 @@
+# v0.0.3
+* Added a resource browser. This will be the place where you can view/edit/load/apply all assets loaded by the game.
+  The RFL editor has been moved to this location. It can, however, still be accessed from the GOCPlayerParameter inspector.
+  If you open the RFL editor directly from the resource browser, you'll have to select the appropriate schema yourself.
+  The devtools will show a list of possibly compatible schemas based on the file size.
+  Careful! Editing an RFL with an incompatible schema will corrupt data and may crash your game.
+  When you are sent to the editor through a link that knows what the correct schema is (e.g. GOCPlayerParameter),
+  the correct schema will be selected for you.
+  Icons generously donated by @aymenduturfu on the Hedgehog Engine Modding Server discord!
+* Added transform gizmos when an object is selected. These gizmos use the same hotkey system as Blender:
+  * G: Move
+  * R: Rotate
+  * S: Scale
+  * Alt+Space: toggle local/world coordinate system
+  * X/Y/Z: Restrict transformations along X/Y/Z axis.
+  * Shift+X/Y/Z: Restrict transformation along everything but X/Y/Z axis.
+* Added a debug camera (detached/free camera). Hover over the toggle in the toolbar to see controls and hotkeys.
+* Added object pause, debug pause and frame-by-frame stepping. Hover over the toggles in the toolbar to see an explanation and the associated hotkeys.
+* Added 2 new UI themes:
+  * Sonic Frontiers, a theme based on the game's main UI and the new main theme for the devtools!
+  * Gindows, a theme based on the UI of Sonic Team's in-house development tools!
+    This theme was generously donated by @ik_01 on the Hedgehog Engine Modding Server discord!
+  
+  Currently the theme will revert to the default when the game restarts, I am looking into saving your choice for the next version.
+* Added a new insights section. Currently contains only the GameUpdater section, which shows frame times per object layer.
+* Slightly improved stability.
+
 # v0.0.2
 * Added the beginnings of a GameService inspector
 * Added basic inspector for the NeedleFXParameter, FxLODParameter and StageCommonTimeProgressParameter reflections in the service FxParamManager.

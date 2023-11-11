@@ -1,2 +1,5 @@
 add mod.ini
 add devtools.dll
+add raw/mods/angryzor_devtools/devtools.pac
+add LICENSE.txt
+add vendor-licenses.zip

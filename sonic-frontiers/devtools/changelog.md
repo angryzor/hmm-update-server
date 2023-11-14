@@ -1,3 +1,16 @@
+# v0.0.4
+* Added hot reload features to the resource browser. You can now right click a resource in the resource browser and select
+  "Load from file" to pick a file on your hard drive to replace the asset with. This has immediate effect in the game for
+  many assets. Alternatively, you can choose "Watch folder..." in the resource browser menubar to continuously monitor
+  a folder on your hard drive for changes. Any assets you add or update in this folder will be automatically loaded
+  by the devtools and replace existing assets with the same name. This feature has currently been tested with textures
+  and pxd animations. Other files will probably work as well, but have not been tested yet. Use at your own risk.
+* Improved the reflection editor:
+  * STRING and FLAGS attributes are now also editable.
+  * Improved rendering of arrays. They are now nested and their indices are marked in their names.
+* Added 2 small insights windows: GraphicsContext, showing Renderables in use by the engine, and CameraManager,
+  showing active camera stacks and their associated view/projection matrices.
+
 # v0.0.3
 * Added a resource browser. This will be the place where you can view/edit/load/apply all assets loaded by the game.
   The RFL editor has been moved to this location. It can, however, still be accessed from the GOCPlayerParameter inspector.

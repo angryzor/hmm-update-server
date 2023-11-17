@@ -1,3 +1,6 @@
+# v0.0.6
+* Added ability to lock the debug camera position. While the camera is locked you regain control over Sonic.
+
 # v0.0.5
 * Added English translations for the Japanese descriptions of reflection parameters.
   These can be turned on in the new settings dialog but are currently opt-in because

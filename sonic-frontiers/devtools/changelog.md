@@ -1,3 +1,17 @@
+# v0.1.0
+* Added the beginnings of a gedit editor mode. You can now select "Level editor" from the "Mode" menu and
+  drop into a new mode where you edit not the live objects but the underlying gedit resource, and you changes
+  are persisted and can be exported to a .gedit file (right click a layer in the "Object list" layer view to export).
+* Added a gedit editing window to the resource browser.
+* Added tree view in addition to existing layer view in object inspection mode.
+* Improved keyboard controls for the free camera and added mouse controls (you can set sensitivity in the settings).
+  Mouse control is not perfect yet and will be improved in a future version.
+* Made it possible to drag around the camera view while devtools are open by right clicking and holding the scene.
+* Made the path in the resource browser stay fixed.
+* Fixed default settings not being loaded if you didn't have a settings file yet.
+* Various bugfixes that I forgot.
+* Added a new bug: Sonic does a quickstep when devtools are opened.
+
 # v0.0.6
 * Added ability to lock the debug camera position. While the camera is locked you regain control over Sonic.
 

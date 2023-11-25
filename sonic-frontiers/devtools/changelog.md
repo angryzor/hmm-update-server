@@ -2,8 +2,9 @@
 * Added the beginnings of a gedit editor mode. You can now select "Level editor" from the "Mode" menu and
   drop into a new mode where you edit not the live objects but the underlying gedit resource and your changes
   are persisted and can be exported to a .gedit file (right click a layer in the "Object list" layer view to export).
-* Added a gedit editing window to the resource browser.
+* Added a physics based mouse picker (you can now select many objects by clicking them).
 * Added tree view in addition to existing layer view in object inspection mode.
+* Added a gedit editing window to the resource browser.
 * Added a GameService inspector for the ObjectWorld service. Be careful with this as manipulating the flags is sure to crash your game.
 * Added support for ARRAY and OBJECT_ID types in the RFL editor.
 * Improved keyboard controls for the free camera and added mouse controls (you can set sensitivity in the settings).

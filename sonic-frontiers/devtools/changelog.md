@@ -4,6 +4,8 @@
   are persisted and can be exported to a .gedit file (right click a layer in the "Object list" layer view to export).
 * Added a gedit editing window to the resource browser.
 * Added tree view in addition to existing layer view in object inspection mode.
+* Added a GameService inspector for the ObjectWorld service. Be careful with this as manipulating the flags is sure to crash you game.
+* Added support for ARRAY and OBJECT_ID types in the RFL editor.
 * Improved keyboard controls for the free camera and added mouse controls (you can set sensitivity in the settings).
   Mouse control is not perfect yet and will be improved in a future version.
 * Made it possible to drag around the camera view while devtools are open by right clicking and holding the scene.

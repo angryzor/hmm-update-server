@@ -1,3 +1,6 @@
+# v0.1.1
+* Build for Sonic Frontiers v1.41
+
 # v0.1.0
 * Added the beginnings of a gedit editor mode. You can now select "Level editor" from the "Mode" menu and
   drop into a new mode where you edit not the live objects but the underlying gedit resource and your changes

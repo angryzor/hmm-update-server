@@ -1,3 +1,6 @@
+# v0.1.2
+* Fixed a misidentified function causing a crash when clicking an object in the level editor.
+
 # v0.1.1
 * Build for Sonic Frontiers v1.41
 

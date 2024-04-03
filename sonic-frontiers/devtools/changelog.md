@@ -1,3 +1,10 @@
+# v0.1.3
+* Added rendering of GOCVisualDebugDraw debug geometry (can be toggled from toolbar).
+* Added a memory inspector.
+* Vastly improved performance of level editor object list (it can still be improved further).
+* Fixed a bug where the level editor's gedit export would crash sometimes due to running out of memory.
+* Code cleanup.
+
 # v0.1.2
 * Fixed a misidentified function causing a crash when clicking an object in the level editor.
 

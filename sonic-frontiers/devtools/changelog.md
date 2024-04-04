@@ -1,3 +1,6 @@
+# v0.1.4
+* Fixed an issue where placing objects not already on the map would crash the game.
+
 # v0.1.3
 * Added rendering of GOCVisualDebugDraw debug geometry (can be toggled from toolbar).
 * Added a memory inspector.

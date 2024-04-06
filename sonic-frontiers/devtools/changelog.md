@@ -1,3 +1,14 @@
+# v0.1.5
+* Added an experimental "NeedleFxSceneData Testing Tool", which sets FX parameters directly on the rendering engine.
+  IMPORTANT: this feature is unstable and currently crashes your game when you switch maps after you used it.
+* DevTools now allocates memory in its own subheap, making it easier to debug and preventing it from interfering
+  with other game memory.
+* Improved the Memory Inspector: new plots have been added, more information has been added and the heap hierarchy is shown.
+* Improved the FxParamManager inspector: more information is now visible.
+* Improved the reflection editor: now picks up on many more ranges and step sizes in the game's reflection information.
+* "Insights" menu has been changed to "Inspectors" menu, the GameService inspector has been moved to this location.
+* Fixed a memory leak in csl::ut::VariableString handling.
+
 # v0.1.4
 * Fixed an issue where placing objects not already on the map would crash the game.
 

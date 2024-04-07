@@ -1,3 +1,7 @@
+# v0.1.7
+* Collecting debug comments every frame severely degrades performance on some levels.
+  Put the feature under a toolbar toggle until I can fix this.
+
 # v0.1.6
 * Added StageInfo and LevelInfo service inspectors.
 * Added debug comment rendering when in level editor mode.

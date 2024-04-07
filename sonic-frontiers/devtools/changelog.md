@@ -1,3 +1,10 @@
+# v0.1.6
+* Added StageInfo and LevelInfo service inspectors.
+* Added debug comment rendering when in level editor mode.
+* Fixed a bug where windows would sometimes take the place of one you just closed.
+* Fixed a bug where window docking wasn't working.
+* Fixed a bug where the game would crash if you pressed delete while having nothing selected.
+
 # v0.1.5
 * Added an experimental "NeedleFxSceneData Testing Tool", which sets FX parameters directly on the rendering engine.
   IMPORTANT: this feature is unstable and currently crashes your game when you switch maps after you used it.

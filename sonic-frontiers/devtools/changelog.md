@@ -1,3 +1,6 @@
+# v0.1.8
+* Added hot reload for gedit resources.
+
 # v0.1.7
 * Collecting debug comments every frame severely degrades performance on some levels.
   Put the feature under a toolbar toggle until I can fix this.

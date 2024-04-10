@@ -1,3 +1,6 @@
+# v0.1.10
+* Fixed crashes in automatic gedit reloading.
+
 # v0.1.9
 * Fixed a bug in the automatic gedit reloading.
 

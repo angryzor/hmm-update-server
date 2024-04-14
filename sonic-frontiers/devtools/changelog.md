@@ -10,6 +10,7 @@
 * Fixed selected object drifting in the level editor due to a numerical stability issue.
 * Improved performance in level editor.
 * Refactored object inspector.
+* Core "operation mode" windows like the object list and inspector now remember their position.
 
 # v0.1.10
 * Fixed crashes in automatic gedit reloading.

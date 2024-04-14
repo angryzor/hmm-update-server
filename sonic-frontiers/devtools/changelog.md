@@ -1,3 +1,6 @@
+# v0.1.12
+* Fixed a bug in the GOCTransform inspector introduced by refactoring.
+
 # v0.1.11
 * Improved selection tool. DashRings and the like are now selectable.
 * Colliders that trigger selection can now be precisely selected using new filter settings.

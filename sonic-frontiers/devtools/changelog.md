@@ -1,3 +1,16 @@
+# v0.1.11
+* Improved selection tool. DashRings and the like are now selectable.
+* Colliders that trigger selection can now be precisely selected using new filter settings.
+* Holding down ALT while left clicking will now show a menu with all objects that can be picked at that location.
+* Improved GOCVisualDebugDraw rendering.
+* Added debug rendering of colliders.
+* Added settings for debug rendering.
+* Added settings for slider range and precision.
+* Added GOCSphereCollider, GOCBoxCollider, GOCCapsuleCollider and GOCCylinderCollider inspectors.
+* Fixed selected object drifting in the level editor due to a numerical stability issue.
+* Improved performance in level editor.
+* Refactored object inspector.
+
 # v0.1.10
 * Fixed crashes in automatic gedit reloading.
 

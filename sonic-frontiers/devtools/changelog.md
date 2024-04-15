@@ -1,3 +1,9 @@
+# v0.1.13
+* Added click-and-drag multi select.
+* Added a search box for the world object list in level editor mode. At the moment this is case sensitive, will improve soon.
+* The "Gedit" theme was completely revamped. Thanks a lot ik!
+* Added an experimental inspector for GOCAnimator. This doesn't do much yet.
+
 # v0.1.12
 * Fixed a bug in the GOCTransform inspector introduced by refactoring.
 

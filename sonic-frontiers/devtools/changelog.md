@@ -1,3 +1,10 @@
+# v0.1.14
+* Added hot reload for .terrain-model.
+* Added hot reload for .pcmodel.
+* Added a ResMaterial editor, which currently does not update or export anything. Only for viewing.
+* Fixed a bug where selecting "Place" in the level editor before selecting an object to be placed would crash the game.
+* Fixed a bug where opening two standalone windows would crash the game.
+
 # v0.1.13
 * Added click-and-drag multi select.
 * Added a search box for the world object list in level editor mode. At the moment this is case sensitive, will improve soon.

@@ -1,3 +1,19 @@
+# v0.1.15
+* Added live editing of grinding rails.
+* Added small magenta boxes visualizing selectable objects without models while in level editor mode.
+* Added better communication with the edit mode of ingame objects, e.g. volumes now show their debug visual while being edited
+  even if debug rendering is off, cameras show the viewpoint of the camera while selected, etc.
+* Added a search box and categories to the Object Library.
+* Added a GOCPlayerKinematicParams inspector.
+* Added a GOCEventCollision inspector.
+* Fixed a crash in GOCAnimator.
+* Added drag-and-drop reparenting of GameObjects in object inspection mode.
+* Added an experimental RFL diffing tool.
+* Extended the data visible in the GOCPlayerParameter inspector.
+* Fixed a crash while deleting objects.
+* Fixed a crash while quitting the game when the level editor is open.
+* Added NeedleFXSceneData testing tool V2. This one is experimental and doesn't work properly yet, but uses a more robust approach.
+
 # v0.1.14
 * Added hot reload for .terrain-model.
 * Added hot reload for .pcmodel.

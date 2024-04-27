@@ -10,6 +10,7 @@
 * Added drag-and-drop reparenting of GameObjects in object inspection mode.
 * Added an experimental RFL diffing tool.
 * Extended the data visible in the GOCPlayerParameter inspector.
+* Fixed grinding rails disappearing when switching to the editor.
 * Fixed a crash while deleting objects.
 * Fixed a crash while quitting the game when the level editor is open.
 * Added NeedleFXSceneData testing tool V2. This one is experimental and doesn't work properly yet, but uses a more robust approach.

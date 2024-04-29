@@ -1,3 +1,10 @@
+# v0.1.16
+* Improved the GameUpdater inspector. You now have a better overview and can toggle pause participation, timescale and FPS.
+* Added a GameMode inspector that currently only shows the Layer Status extension. If you want to change timescale you will
+  probably have to do it here because this GameMode extension overwrites the values in the GameUpdater.
+* Added update flag inspection and manipulation in object inspection mode.
+* Fixed a regression in the range processing of the reflection editor, sometimes allowing you to select unsafe values.
+
 # v0.1.15
 * Added live editing of grinding rails.
 * Added small magenta boxes visualizing selectable objects without models while in level editor mode.

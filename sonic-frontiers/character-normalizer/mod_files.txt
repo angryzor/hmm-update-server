@@ -1,0 +1,5 @@
+add Mod.ini
+add character-normalizer.dll
+add LICENSE.txt
+add vendor-licenses/Detours.txt
+add vendor-licenses/Eigen.txt

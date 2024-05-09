@@ -1,7 +1,10 @@
 # v0.1.17
 * Added the beginnings of a SWIF editor. (This can easily hard crash at the moment as it's only half built. You have been warned.)
 * Added the beginnings of the GOCPlayerBlackboard inspector.
-* Refactored the reflection part of the codebase
+* Added an inspector for GOCCamera.
+* Added an inspector for CameraService.
+* Added a details tab to the object inspector, which is currently only used for the CameraFrame object.
+* Refactored the reflection part of the codebase.
 * Fixed a bug where parts of reflection data were overwritten when manipulating neighbouring comboboxes or flags.
 * Added reflective operations, a code framework that makes it easy to add new reflection-centered operations and transformations.
 * Added copying of parts of reflection data through drag and drop.

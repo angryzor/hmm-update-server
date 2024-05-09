@@ -1,3 +1,6 @@
+# v0.1.18
+* Fixed a crash when opening the blend tree of the secondary camera frame.
+
 # v0.1.17
 * Added the beginnings of a SWIF editor. (This can easily hard crash at the moment as it's only half built. You have been warned.)
 * Added the beginnings of the GOCPlayerBlackboard inspector.

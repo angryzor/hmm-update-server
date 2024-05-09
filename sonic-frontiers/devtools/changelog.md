@@ -1,3 +1,16 @@
+# v0.1.17
+* Added the beginnings of a SWIF editor. (This can easily hard crash at the moment as it's only half built. You have been warned.)
+* Added the beginnings of the GOCPlayerBlackboard inspector.
+* Refactored the reflection part of the codebase
+* Fixed a bug where parts of reflection data were overwritten when manipulating neighbouring comboboxes or flags.
+* Added reflective operations, a code framework that makes it easy to add new reflection-centered operations and transformations.
+* Added copying of parts of reflection data through drag and drop.
+* Added a right-click context menu option to reset reflection data subtrees to default values.
+* Added a right-click context menu option to reset reflection data subtrees in ResReflection editors to the values
+  that were there when the editor was opened.
+* Added a diff view to the ResReflection editor showing you what you changed since it was opened.
+* Fixed a bug where the minimum float step in the settings could not be changed.
+
 # v0.1.16
 * Improved the GameUpdater inspector. You now have a better overview and can toggle pause participation, timescale and FPS.
 * Added a GameMode inspector that currently only shows the Layer Status extension. If you want to change timescale you will

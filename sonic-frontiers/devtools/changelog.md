@@ -1,3 +1,6 @@
+# v0.1.20
+* Fixed a bug where the ResReflectionEditor would always export the contents of the window you opened first if multiple editors were open.
+
 # v0.1.19
 * Added selection of SWIF elements.
 * Added manipulation of SWIF elements.

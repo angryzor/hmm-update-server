@@ -1,3 +1,7 @@
+# v0.1.19
+* Added selection of SWIF elements.
+* Added manipulation of SWIF elements.
+
 # v0.1.18
 * Fixed a crash when opening the blend tree of the secondary camera frame.
 

@@ -1,3 +1,6 @@
+# v0.2.0
+* Fixed the camera issues!
+
 # v0.1.4
 * Alternative CyberModes now work on the other characters (except for the nitro particles).
 

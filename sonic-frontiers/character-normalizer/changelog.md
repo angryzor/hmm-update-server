@@ -1,3 +1,6 @@
+# v0.1.4
+* Characters are now fully normalized: all characters can use any state and access any parameter of every other character.
+
 # v0.1.3
 * Alternative CyberModes now work on the other characters (except for the nitro particles).
 

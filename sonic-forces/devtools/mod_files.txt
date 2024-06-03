@@ -1,0 +1,12 @@
+add mod.ini
+add devtools.dll
+add disk/wars_patch/mods/angryzor_devtools/devtools.pac
+add LICENSE.txt
+add vendor-licenses/Detours.txt
+add vendor-licenses/Eigen.txt
+add vendor-licenses/FileWatch.txt
+add vendor-licenses/HedgeLib.txt
+add vendor-licenses/ImGui.txt
+add vendor-licenses/ImGuiFileDialog.txt
+add vendor-licenses/ImGuizmo.txt
+add vendor-licenses/implot.txt

@@ -1,3 +1,9 @@
+# v0.1.24
+* HOTFIX: Fixed a regression where the game would crash if SQUID spots you. Also debug rendering didn't work.
+* Made it possible to use the time and weather NeedleFXSceneData options in NeedleFXSceneData Testing Tool V2 without also setting the base NeedleFXParameters.
+* Fixed a bug in the RFL copy code.
+* Fixed a bug in the mouse hook.
+
 # v0.1.23
 * Added rudimentary copy+paste of objects in the level editor (select a placement layer first!).
 * Added align/distribute option of objects in the level editor when multiple are selected.

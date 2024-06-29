@@ -1,3 +1,17 @@
+# v0.1.25
+* Removed "Sonic's Birthday" HEMS event easter egg.
+* Added workaround to not crash when objects have invalid NULL IDs.
+* Added marker for objects with invalid NULL IDs in the ObjectData tree.
+* Added "Free Memory" tab in memory inspector.
+* Added support for TYPE_OLD_ARRAY in the RFL editor.
+* Added checks for NULL or duplicate ID's when generating a new Object ID.
+
+## Sonic Forces
+* Added NeedleFXSceneData Testing Tool.
+* Added Memory Inspector.
+* Added pausing.
+
+
 # v0.1.24
 * HOTFIX: Fixed a regression where the game would crash if SQUID spots you. Also debug rendering didn't work.
 * Made it possible to use the time and weather NeedleFXSceneData options in NeedleFXSceneData Testing Tool V2 without also setting the base NeedleFXParameters.
@@ -42,6 +56,10 @@
 * Fixed a crash when viewing unloaded texture resources in the ResourceManager.
 * Small regression: updating debug camera sensitivity now requires a restart. Will be fixed in a future version. However, this also fixes the issue where sonic sidesteps or the map opens when you open DevTools.
 * Custom ComponentData editor has been temporarily disabled but will be back in next version.
+
+# v0.1.21
+* Added a build for Sonic Forces. This build is not yet full featured.
+* Improved free camera handling and keyboard/mouse capture.
 
 # v0.1.20
 * Fixed a bug where the ResReflectionEditor would always export the contents of the window you opened first if multiple editors were open.

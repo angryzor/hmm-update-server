@@ -1,7 +1,9 @@
-add mod.ini
-add devtools.dll
-add disk/wars_patch/mods/angryzor_devtools/devtools.pac
+add CHANGELOG.md
 add LICENSE.txt
+add devtools-wars.dll
+add disk/wars_patch/mods/angryzor_devtools/devtools.pac
+add disk/wars_patch/mods/angryzor_devtools/devtools.pac.000
+add mod.ini
 add vendor-licenses/Detours.txt
 add vendor-licenses/Eigen.txt
 add vendor-licenses/FileWatch.txt

@@ -1,3 +1,62 @@
+# v0.1.25
+* Removed "Sonic's Birthday" HEMS event easter egg.
+* Added workaround to not crash when objects have invalid NULL IDs.
+* Added marker for objects with invalid NULL IDs in the ObjectData tree.
+* Added "Free Memory" tab in memory inspector.
+* Added support for TYPE_OLD_ARRAY in the RFL editor.
+* Added checks for NULL or duplicate ID's when generating a new Object ID.
+
+## Sonic Forces
+* Added NeedleFXSceneData Testing Tool.
+* Added Memory Inspector.
+* Added pausing.
+
+
+# v0.1.24
+* HOTFIX: Fixed a regression where the game would crash if SQUID spots you. Also debug rendering didn't work.
+* Made it possible to use the time and weather NeedleFXSceneData options in NeedleFXSceneData Testing Tool V2 without also setting the base NeedleFXParameters.
+* Fixed a bug in the RFL copy code.
+* Fixed a bug in the mouse hook.
+
+# v0.1.23
+* Added rudimentary copy+paste of objects in the level editor (select a placement layer first!).
+* Added align/distribute option of objects in the level editor when multiple are selected.
+* Added GOCVisual inspector.
+* Added GOCActivator inspector.
+* Added SoundDirector inspector.
+* Added allocation map tab to the memory inspector.
+* Added RenderManager inspector.
+* Added RenderingEngine inspector.
+* Added a GameObject input for handles to GameObjects.
+* Added generalized non-RFL array inputs.
+* Added default unfold of spawner data and component data in the level editor.
+* Added a button to spawn/despawn/shutdown/restart objects in the ObjectWorld inspector.
+* Added an Asleep toggle in the object inspector.
+* Added Sonic Forces theme.
+* Selection AABB rendering now also accounts for selected dead objects when in level editor mode.
+* Resources can now be dragged into text inputs to copy their name.
+* ObjectData objects can now be dragged into ObjectId inputs to copy their ID.
+* ObjectId inputs now have a Select button that selects the object in the level editor if it is open.
+* Slightly improved the material editor. It now live updates the material for some parameters (not all yet).
+* Added support for alternative projection types in the ViewportData viewer.
+* Multiple select now shows number of objects selected.
+* Made debug box rendering size configurable.
+* Fixed a bug where absolute transforms were not properly updated when moving objects that have children in the level editor.
+* Fixed a regression where list editors in the RFL editor were corrupting memory and causing crashes.
+* Fixed a regression in vector/matrix inputs in the RFL editor where they were editing the wrong address in memory.
+* Fixed a regression in fixed size arrays in the RFL editor where they would open simultaneously.
+* Fixed a bug in RFL drag and drop processing.
+* Fixed a bug in quaternion inputs.
+* Fixed a bug with edit detection in ObjectId editors.
+* Fixed keyboard input being passed to the game when an input field is in focus.
+* Fixed the camera glitching out when first manipulating it.
+* Fixed a bug in gedit serialization where fields that should always be zero were not always zero (this bug was masked and probably did not affect your files).
+* Fixed a bug with object ID's in the level editor.
+* Fixed a major (known) memory leak in the level editor when creating new objects.
+* Fixed a crash when viewing unloaded texture resources in the ResourceManager.
+* Small regression: updating debug camera sensitivity now requires a restart. Will be fixed in a future version. However, this also fixes the issue where sonic sidesteps or the map opens when you open DevTools.
+* Custom ComponentData editor has been temporarily disabled but will be back in next version.
+
 # v0.1.21
 * Added a build for Sonic Forces. This build is not yet full featured.
 * Improved free camera handling and keyboard/mouse capture.

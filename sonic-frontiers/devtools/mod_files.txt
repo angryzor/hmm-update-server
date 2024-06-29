@@ -1,8 +1,9 @@
-add mod.ini
+add CHANGELOG.md
+add LICENSE.txt
 add devtools-rangers.dll
+add mod.ini
 add raw/mods/angryzor_devtools/devtools.pac
 add raw/mods/angryzor_devtools/devtools_extra.pac
-add LICENSE.txt
 add vendor-licenses/Detours.txt
 add vendor-licenses/Eigen.txt
 add vendor-licenses/FileWatch.txt
@@ -11,4 +12,3 @@ add vendor-licenses/ImGui.txt
 add vendor-licenses/ImGuiFileDialog.txt
 add vendor-licenses/ImGuizmo.txt
 add vendor-licenses/implot.txt
-add vendor-licenses/Models.txt

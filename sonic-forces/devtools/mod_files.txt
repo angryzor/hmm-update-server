@@ -12,3 +12,4 @@ add vendor-licenses/ImGui.txt
 add vendor-licenses/ImGuiFileDialog.txt
 add vendor-licenses/ImGuizmo.txt
 add vendor-licenses/implot.txt
+add vendor-licenses/reflect-cpp.txt

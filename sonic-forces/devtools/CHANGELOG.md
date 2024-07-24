@@ -1,3 +1,12 @@
+# v0.1.35
+* Fixed Copy/Paste being broken after OperationMode refactor.
+* Added Cut.
+* Added setting to disable multiple viewports
+* Also made it possible for standalone windows to be dragged out of the main viewport.
+* Fixed a crash when closing the game related to multiple viewports.
+* Moved to /W4 warning level and fixed most warnings.
+
+
 # v0.1.34
 * Added SWIF file export.
 * Added pivot type selection to the SWIF editor (selection box will be fixed soon).

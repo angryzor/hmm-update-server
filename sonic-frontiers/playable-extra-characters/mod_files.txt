@@ -1,8 +1,9 @@
-add Mod.ini
-add config.json
-add playable-extra-characters.dll
+add CHANGELOG.md
 add LICENSE.txt
+add config.json
+add mod.ini
 add physics-presets/invalidfile/raw/mods/angryzor/character_normalizer/player_common_extra_cyber.pac
 add physics-presets/weezley/raw/mods/angryzor/character_normalizer/player_common_extra_cyber.pac
+add playable-extra-characters.dll
 add vendor-licenses/Detours.txt
 add vendor-licenses/Eigen.txt

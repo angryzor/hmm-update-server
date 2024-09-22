@@ -1,0 +1,5 @@
+add CHANGELOG.md
+add LICENSE.txt
+add functional-slide.dll
+add mod.ini
+add vendor-licenses/Eigen.txt

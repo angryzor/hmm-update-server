@@ -1,3 +1,58 @@
+# v0.1.56
+* Integrated DevTools with `rip`.
+* Fixed a bug where selecting parented objects didn't work properly in the level editor.
+
+## Sonic Forces / Sonic Frontiers
+* ASM editor: You can now assign a blend node to a state.
+* ASM editor: Fixed a bug where assigning clips to states would not set the state to be a clip state.
+* Added RFL HedgeSet template export. Thanks to Ashrindy for this contribution!
+
+
+# v0.1.55
+* Added RFL HedgeSet template export. Thanks to Ashrindy for this contribution!
+
+
+# v0.1.54
+## Shadow Generations
+* Update for Shadow Generations v1.1.0.1.
+
+
+# v0.1.53
+## Shadow Generations
+* Ported "teleport player".
+* Added `GOCPlayerKinematicParams` inspector.
+
+
+# v0.1.52
+## Shadow Generations
+* Ported material editor.
+
+
+# v0.1.51
+## Shadow Generations
+* ASM editor: You can now assign a blend node to a state.
+* ASM editor: Fixed a bug where assigning clips to states would not set the state to be a clip state.
+
+
+# v0.1.50
+## Shadow Generations
+* Ported ASM editor.
+* Ported StageInfo inspector.
+* Ported LevelInfo inspector.
+* Fixed an issue with generated HSON templates.
+
+
+# v0.1.49
+## Shadow Generations
+* Ported NeedleFXSceneData Testing Tool.
+* Ported FxParamManager inspector.
+
+
+# v0.1.48
+## Shadow Generations
+* First experimental Shadow Generations release.
+
+
 # v0.1.47
 ## Sonic Frontiers
 * Added `PathManager` inspector.

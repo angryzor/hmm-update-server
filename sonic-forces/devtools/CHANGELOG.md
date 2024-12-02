@@ -1,3 +1,7 @@
+# v0.1.58
+* Added panel that allows direct editing of debug camera parameters.
+
+
 # v0.1.57
 * Fixed a bug in object placement introduced in the previous version.
 

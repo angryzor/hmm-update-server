@@ -1,5 +1,6 @@
 add CHANGELOG.md
 add LICENSE.txt
+add config.json
 add mod.ini
 add no-rings.dll
 add vendor-licenses/Eigen.txt

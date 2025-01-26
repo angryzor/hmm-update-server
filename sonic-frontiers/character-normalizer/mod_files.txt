@@ -1,4 +1,4 @@
-add Mod.ini
+add mod.ini
 add character-normalizer.dll
 add LICENSE.txt
 add vendor-licenses/Detours.txt

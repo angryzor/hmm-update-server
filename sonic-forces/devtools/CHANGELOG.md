@@ -1,3 +1,42 @@
+# v0.1.67
+* Added API query endpoint for objects.
+
+## Sonic Forces
+* Fixed color channel order issue that occurred since UCSL integration.
+
+
+# v0.1.66
+* Added API.
+
+## Sonic Frontiers
+* Added extremely experimental CEMT editor.
+
+
+# v0.1.65
+* Added toggle to disable photo mode in Camera settings.
+
+## Sonic Frontiers
+* Updated for Sonic Frontiers v1.42
+
+
+# v0.1.64
+* Added path rendering.
+* Added reload queue.
+* Refactored debug rendering.
+* Fixed bug where reloading a gedit with new object types would crash.
+* Fixed a bug where inspecting the PVO of a GOCVisual's material instance would crash the game if it didn't exist.
+
+## Sonic Frontiers & Sonic Forces
+* Added options to create new timeline items in the SWIF editor.
+
+## Shadow Generations & Sonic Frontiers
+* Added Photo Mode (press L3 to activate).
+* Added occlusion capsule rendering.
+
+## Shadow Generations
+* Updated for v1.10.0.1
+
+
 # v0.1.63
 * Fixed font scaling in ASM editor.
 

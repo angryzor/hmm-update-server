@@ -1,0 +1,10 @@
+add CHANGELOG.md
+add GameNetworkingSockets.dll
+add LICENSE.txt
+add abseil_dll.dll
+add he2mp.dll
+add image/raw/text/text_he2mp.pac
+add libcrypto-3-x64.dll
+add libprotobuf.dll
+add mod.ini
+add vendor-licenses/Eigen.txt

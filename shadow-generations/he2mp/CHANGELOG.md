@@ -1,3 +1,9 @@
+# v0.0.8
+* Fixed a crash on stage exit after death due to respawned players not registering themselves.
+* Fixed not all players being respawned on death.
+* Fixed a potential but in practice unlikely bug when a player disconnects.
+
+
 # v0.0.7
 * Added effect replication.
 * Fixed players not respawning on level rebuild.

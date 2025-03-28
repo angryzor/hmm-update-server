@@ -1,3 +1,7 @@
+# v0.0.10
+* Made it not connect to localhost.
+
+
 # v0.0.9
 * Added quaternion extrapolation (smoother rotations).
 * Fixed badly initialized transform rotation.

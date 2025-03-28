@@ -1,3 +1,12 @@
+# v0.0.9
+* Added quaternion extrapolation (smoother rotations).
+* Fixed badly initialized transform rotation.
+* Limited effect replication to max 50 units distance (this is a temporary solution).
+
+## Sonic Frontiers
+* Added support for Amy, Knuckles and Tails.
+
+
 # v0.0.8
 * Fixed a crash on stage exit after death due to respawned players not registering themselves.
 * Fixed not all players being respawned on death.

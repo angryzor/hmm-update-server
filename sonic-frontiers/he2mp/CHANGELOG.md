@@ -1,3 +1,10 @@
+# v0.0.11
+* Localization.
+
+## Shadow Generations
+* Now shows join/leave messages.
+
+
 # v0.0.10
 * Made it not connect to localhost.
 

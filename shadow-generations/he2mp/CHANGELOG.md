@@ -1,3 +1,7 @@
+# v0.0.12
+* Added InstaGib.
+
+
 # v0.0.11
 * Localization.
 

@@ -1,3 +1,7 @@
+# v0.0.13
+* Fixed messages for unknown handles causing a crash.
+
+
 # v0.0.12
 * Added InstaGib.
 

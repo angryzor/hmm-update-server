@@ -1,3 +1,9 @@
+# v0.0.17
+* Increased name tag render distance to 100 meters.
+* Fixed a potential hang.
+* Made it possible to toggle name tags with F11.
+
+
 # v0.0.16
 * Fixed packaging problem.
 

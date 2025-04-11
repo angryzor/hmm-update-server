@@ -1,0 +1,27 @@
+{
+    "Groups": [{
+        "Name": "Main",
+        "DisplayName": "Options",
+        "Elements": [{
+            "Name": "IncludeDir1",
+            "DisplayName": "UI theme",
+            "Description": ["Choose which UI theme to use."],
+            "Type": "UITheme",
+            "MinValue": null,
+            "MaxValue": null,
+            "DefaultValue": "uis/theduckdealer"
+        }]
+    }],
+    "Enums": {
+        "UITheme": [{
+            "DisplayName": "The Duck Dealer",
+            "Value": "uis/theduckdealer",
+            "Description": ["A UI theme made by The Duck Dealer! Made to look similar to the game UI."]
+        }, {
+            "DisplayName": "Minimal",
+            "Value": "uis/minimal",
+            "Description": ["A minimal UI theme made by angryzor!"]
+        }]
+    },
+    "IniFile": "Mod.ini"
+}

@@ -1,3 +1,7 @@
+# v0.0.15
+* Added nametags.
+
+
 # v0.0.14
 * Removed InstaGib.
 

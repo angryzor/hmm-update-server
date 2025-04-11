@@ -2,6 +2,7 @@ add CHANGELOG.md
 add GameNetworkingSockets.dll
 add LICENSE.txt
 add abseil_dll.dll
+add config.json
 add he2mp.dll
 add image/raw/text/text_he2mp_de.pac
 add image/raw/text/text_he2mp_en.pac
@@ -18,4 +19,8 @@ add image/raw/text/text_he2mp_zhs.pac
 add libcrypto-3-x64.dll
 add libprotobuf.dll
 add mod.ini
+add uis/minimal/raw/ui/ui_he2mp.pac
+add uis/minimal/ui_he2mp.pac
+add uis/theduckdealer/raw/ui/ui_he2mp.pac
+add uis/theduckdealer/ui/ui_he2mp.pac
 add vendor-licenses/Eigen.txt

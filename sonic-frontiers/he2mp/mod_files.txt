@@ -16,12 +16,9 @@ add image/raw/text/text_he2mp_pt.pac
 add image/raw/text/text_he2mp_ru.pac
 add image/raw/text/text_he2mp_zh.pac
 add image/raw/text/text_he2mp_zhs.pac
-add image/raw/ui/ui_he2mp.pac
 add libcrypto-3-x64.dll
 add libprotobuf.dll
 add mod.ini
 add uis/minimal/raw/ui/ui_he2mp.pac
-add uis/minimal/ui/ui_he2mp.pac
 add uis/theduckdealer/raw/ui/ui_he2mp.pac
-add uis/theduckdealer/ui/ui_he2mp.pac
 add vendor-licenses/Eigen.txt

@@ -1,3 +1,7 @@
+# v0.0.16
+* Fixed packaging problem.
+
+
 # v0.0.15
 * Added nametags.
 

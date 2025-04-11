@@ -20,7 +20,5 @@ add libcrypto-3-x64.dll
 add libprotobuf.dll
 add mod.ini
 add uis/minimal/raw/ui/ui_he2mp.pac
-add uis/minimal/ui_he2mp.pac
 add uis/theduckdealer/raw/ui/ui_he2mp.pac
-add uis/theduckdealer/ui/ui_he2mp.pac
 add vendor-licenses/Eigen.txt

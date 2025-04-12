@@ -1,3 +1,9 @@
+# v0.0.18
+* Fixed tutorial room crash.
+* Fixed Boss Rush (Master King trial) crash.
+* Fixed name tags not reappearing after death or retry.
+
+
 # v0.0.17
 * Increased name tag render distance to 100 meters.
 * Fixed a potential hang.

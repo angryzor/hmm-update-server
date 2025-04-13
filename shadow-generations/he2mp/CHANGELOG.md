@@ -1,3 +1,7 @@
+# v0.0.20
+* Fixed a bug where effects would not be removed when a remote player object got destroyed.
+
+
 # v0.0.19
 * Fixed a crash when other player objects are deleted before the name tag UI is (happened when completing training room objective).
 

@@ -1,3 +1,7 @@
+# v0.0.19
+* Fixed a crash when other player objects are deleted before the name tag UI is (happened when completing training room objective).
+
+
 # v0.0.18
 * Fixed tutorial room crash.
 * Fixed Boss Rush (Master King trial) crash.

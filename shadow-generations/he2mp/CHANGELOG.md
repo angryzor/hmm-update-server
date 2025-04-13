@@ -1,3 +1,7 @@
+# v0.0.21
+* Fixed GameNetworkingSockets crashing on Steam Deck due to an older MSVC redistributable.
+
+
 # v0.0.20
 * Fixed a bug where effects would not be removed when a remote player object got destroyed.
 

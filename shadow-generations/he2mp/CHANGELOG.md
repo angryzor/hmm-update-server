@@ -1,3 +1,7 @@
+# v0.0.22
+* Added GOCVisualModel visibility synchronization.
+
+
 # v0.0.21
 * Fixed GameNetworkingSockets crashing on Steam Deck due to an older MSVC redistributable.
 

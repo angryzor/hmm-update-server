@@ -2,6 +2,7 @@ add CHANGELOG.md
 add GameNetworkingSockets.dll
 add LICENSE.txt
 add abseil_dll.dll
+add bass.dll
 add config.json
 add he2mp.dll
 add image/raw/text/text_he2mp_de.pac

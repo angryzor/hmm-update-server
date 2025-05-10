@@ -10,6 +10,12 @@
             "MinValue": null,
             "MaxValue": null,
             "DefaultValue": "uis/theduckdealer"
+        }, {
+            "Name": "EnableVoice",
+            "DisplayName": "Enable Voice Chat",
+            "Description": ["Enables voice chat."],
+            "Type": "bool",
+            "DefaultValue": false
         }]
     }],
     "Enums": {

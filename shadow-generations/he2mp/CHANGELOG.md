@@ -1,3 +1,7 @@
+# v0.0.25
+* Added sound sync
+
+
 # v0.0.24
 * Reapplied v0.0.22 and added temporary workaround for issues with Super Sonic mod.
 

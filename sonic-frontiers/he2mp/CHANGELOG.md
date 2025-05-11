@@ -1,3 +1,7 @@
+# v0.0.27
+* Fix broken voice chat.
+
+
 # v0.0.26
 * Improved voice chat 3D positioning settings.
 

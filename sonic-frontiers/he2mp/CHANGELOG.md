@@ -1,3 +1,7 @@
+# v0.0.28
+* Removed voice chat.
+
+
 # v0.0.27
 * Fix broken voice chat.
 

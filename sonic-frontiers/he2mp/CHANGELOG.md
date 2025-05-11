@@ -1,5 +1,10 @@
+# v0.0.26
+* Improved voice chat 3D positioning settings.
+
+
 # v0.0.25
-* Added sound sync
+* Added sound sync.
+* Added voice chat.
 
 
 # v0.0.24

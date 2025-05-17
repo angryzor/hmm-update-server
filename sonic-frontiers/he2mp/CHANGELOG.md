@@ -1,3 +1,7 @@
+# v0.0.29
+* Added very basic PvP experiment.
+
+
 # v0.0.28
 * Removed voice chat.
 

@@ -1,3 +1,9 @@
+# v0.0.30
+* Fixed a server bug where objects were spawned as players.
+* Fixed a server bug where ownership of handles was not released.
+* Disabled visual sync to check if this reduces the amount of crashes.
+
+
 # v0.0.29
 * Added very basic PvP experiment.
 

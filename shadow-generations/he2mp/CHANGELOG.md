@@ -1,3 +1,7 @@
+# v0.0.31
+* Add toggle (F10) to enable/disable damage from other players.
+
+
 # v0.0.30
 * Fixed a server bug where objects were spawned as players.
 * Fixed a server bug where ownership of handles was not released.

@@ -3,8 +3,10 @@ add GameNetworkingSockets.dll
 add LICENSE.txt
 add abseil_dll.dll
 add bass.dll
+add character/cape.pac
 add config.json
 add he2mp.dll
+add image/raw/character/cape.pac
 add image/raw/text/text_he2mp_de.pac
 add image/raw/text/text_he2mp_en.pac
 add image/raw/text/text_he2mp_es.pac

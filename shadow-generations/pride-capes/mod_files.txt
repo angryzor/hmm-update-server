@@ -1,0 +1,7 @@
+add CHANGELOG.md
+add LICENSE.txt
+add config.json
+add image/raw/character/pride_capes.pac
+add mod.ini
+add pride-capes.dll
+add vendor-licenses/Eigen.txt

@@ -1,3 +1,9 @@
+# v0.0.32
+* Expanded F10 functionality to cycle between PvP types: "disabled", "targetable", "damageable".
+* Changing PvP type now no longer requires a manual respawn.
+* Selected PvP type is now displayed in a caption text.
+
+
 # v0.0.31
 * Add toggle (F10) to enable/disable damage from other players.
 

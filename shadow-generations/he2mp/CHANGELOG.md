@@ -1,3 +1,7 @@
+# v0.0.33
+* Added basic text chat. Press T to open the chat, press Escape to close.
+
+
 # v0.0.32
 * Expanded F10 functionality to cycle between PvP types: "disabled", "targetable", "damageable".
 * Changing PvP type now no longer requires a manual respawn.

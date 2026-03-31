@@ -5,6 +5,7 @@ add abseil_dll.dll
 add bass.dll
 add config.json
 add he2mp.dll
+add image/raw/mods/shader_frontiers/shader.pac
 add image/raw/text/text_he2mp_de.pac
 add image/raw/text/text_he2mp_en.pac
 add image/raw/text/text_he2mp_es.pac
@@ -20,6 +21,7 @@ add image/raw/text/text_he2mp_zhs.pac
 add libcrypto-3-x64.dll
 add libprotobuf.dll
 add mod.ini
+add shader-frontiers.dll
 add uis/minimal/raw/ui/ui_he2mp.pac
 add uis/theduckdealer/raw/ui/ui_he2mp.pac
 add vendor-licenses/Eigen.txt

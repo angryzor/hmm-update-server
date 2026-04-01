@@ -1,3 +1,11 @@
+# v0.0.35
+* Shadow no longer crashes everyone else when you load into a map where he is aura farming.
+
+
+# v0.0.34
+* Added Shadow character experiment.
+
+
 # v0.0.33
 * Added basic text chat. Press T to open the chat, press Escape to close.
 
